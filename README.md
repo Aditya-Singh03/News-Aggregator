@@ -19,7 +19,7 @@ This service pulls news data from News API. This data contains metadata (such as
 
 ### Db-Service
 
-This service provides API calls to push and pull data into our database. All other services depend on this service to circulate data as necessary.
+This service provides API calls to push and pull data into our database. All other services depend on this service to circulate data as necessary. We are using MongoDB noSQL database for all our data, hosted through MongoAtlas.
 
 ### Bundler
 
@@ -45,7 +45,7 @@ This service is the client-side user interface made using React and Tailwind CSS
 
 ## Installation & Configuration
 
-
+   
 
 
 
