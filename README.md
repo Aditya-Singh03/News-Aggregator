@@ -113,7 +113,7 @@ We hosted the `gemma` LLM locally and queried it through [Ollama](https://github
 
 ### Topic Similarity
 
-TODO - Ji
+As part of our recommender service, we curate news posts tailored to each user's specific interests. One method we employ is leveraging topic similarity, which ensures that users are presented with content closely aligned with their preferences. By analyzing the topics users express interest in and those associated with each post, we recommend articles that discuss subjects most similar to the user's preferences. To achieve this, we utilize a `spacy` transformer model, which calculates distances between topics based on their semantic similarities.
 
 ### Collaborative Filtering
 
