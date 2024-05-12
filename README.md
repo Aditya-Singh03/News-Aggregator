@@ -26,5 +26,10 @@ This application is divided into multiple services, each with their own purpose 
 
 
 
-## Installation 
+## Installation & Configuration
+
+
+
+
+
 
