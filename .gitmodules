@@ -19,3 +19,6 @@
 [submodule "news-aggregator"]
 	path = news-aggregator
 	url = git@github.com:CS520-news-aggregator/news-aggregator
+[submodule "aggregator"]
+	path = aggregator
+	url = git@github.com:CS520-news-aggregator/aggregator
