@@ -139,4 +139,4 @@ pytest -s --cov=routers --cov-report term-missing tests/
 
 ## Demo
 
-<iframe src="https://drive.google.com/file/d/1MQTEs_0nSMLMqmA0ZQL6wOnkciDhMp0w/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+[![Demo Video](https://i.imgur.com/ZrmpF9u.png)](https://drive.google.com/file/d/1MQTEs_0nSMLMqmA0ZQL6wOnkciDhMp0w/preview)
