@@ -7,19 +7,24 @@ Each post would have likes, dislikes, and a comment section to encourage discuss
 
 This application is divided into multiple services, each with their own purpose for the application.
 
-## Aggregator 
+### Aggregator 
 
 
-## Db-Service
+### Db-Service
 
 
-## Bundler
+### Bundler
 
 
-## Scraper
+### Scraper
 
 
-## LLM
+### LLM
 
 
-## Frontend
+### Frontend
+
+
+
+## Installation 
+
