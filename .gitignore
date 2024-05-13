@@ -4,6 +4,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 ollama
+!llm/llm/ollama
 
 # C extensions
 *.so
