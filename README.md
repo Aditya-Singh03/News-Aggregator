@@ -117,7 +117,7 @@ As part of our recommender service, we curate news posts tailored to each user's
 
 ### Collaborative Filtering
 
-TODO - Aditya
+To enhance personalized news recommendations even further, we implemented collaborative filtering in our Recommender service. Our collaborative filtering service tracks the interactions and preferences of the users across the platfrom, which allows us to identify and track similar users' behavior. By combining and analyzing the interactions, comments, upvotes and downvotes of various users, our collabortive filtering service is able to identify users with similar interests. Using this logic helps our Recommender service to recommend posts that were positively interacted by one user, to another user with similar behavior, which helps us in suggesting potentially interesting posts to all the users. This builds on top of the hypothesis that users who have had common preferences and behaviors in the past will mostly like enjoy similar topics in the future as well.
 
 ## Testing
 
