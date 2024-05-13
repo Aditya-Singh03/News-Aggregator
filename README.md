@@ -104,8 +104,7 @@ For building various sources in order to create posts, we are using [BertTopic](
 1. [All The News](https://components.one/datasets/all-the-news-articles-dataset/): 200K news articles and essays from 2013 to early 2018
 2. [Social Animal](https://www.kaggle.com/datasets/socialanimal/social-animal-10k-articles-with-text-and-nlp-data/data?select=articles.csv): 10K articles from 2023
 
-We are evaluating our model through [topic coherence score](https://www.baeldung.com/cs/topic-modeling-coherence-score). This quantifies how interpretable the topics generated from the model are to humans. Higher coherence scores usually correlates with higher model performance. In our case, we observed a topic coherence score of **NaN**.
-TODO - Arnav
+We are evaluating our model through [topic coherence score](https://www.baeldung.com/cs/topic-modeling-coherence-score). This quantifies how interpretable the topics generated from the model are to humans. Coherence scores closer to 0 usually correlate with higher model performance. In our case, we observed a topic coherence score of **-3.608**.
 
 ### Gemma
 
