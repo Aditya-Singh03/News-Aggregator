@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-04-11T23:34:37.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7QSBjgWPNGwRWA1rxMVI" version="24.2.3" type="device">
+  <diagram name="Page-1" id="csJbS3IEvpOkWAQG77dW">
+    <mxGraphModel dx="1226" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="720" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="720" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" vertex="1" parent="1">
+          <mxGeometry x="729.63" y="180" width="40.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFFFFF;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-7" value="Agora" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AYjlOBc-E3mDiI4n49TC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="400" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
